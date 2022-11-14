@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    position:fixed;
+    top: 50px;
+    width: 500px;
+    height: 500px;
+    background-color: #ce0d0d50;
+    background-repeat: 8px;
+}
